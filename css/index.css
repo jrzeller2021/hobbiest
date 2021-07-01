@@ -169,85 +169,44 @@ content {
     white-space: normal;
 }
 
-.step-1 {
+#project-title {
     margin: 5%;
+    font-weight: bold;
+}
+
+.recommended-supplies {
+    margin: 5%;
+}
+
+section .row .col-md-5 {
+    margin: 2% 5%;
+    word-wrap: normal;
     white-space: normal;
 }
 
-.step-1 p {
-    width: 55%;
-}
-
-.step-1 figure img {
-    width: 450px;
-    height: 250px;
-    object-fit: cover; 
-}
-
-.step-2 {
+section row .col-md-5 h3 {
     margin: 5%;
-    white-space: normal;
 }
 
-.step-2 p {
-    width: 55%;
+section .row .col-md-5 p {
+    margin: 2.5% 7.5%;
 }
 
-.step-2 figure img {
-    width: 450px;
-    height: 250px;
-    object-fit: cover; 
-}
-
-.step-3 {
-    margin: 5%;
-    white-space: normal;
-}
-
-.step-3 p {
-    width: 55%;
-}
-
-.step-3 figure img {
-    width: 450px;
-    height: 250px;
-    object-fit: cover; 
-}
-
-.step-4 {
-    margin: 5%;
-    white-space: normal;
-}
-
-.step-4 p {
-    width: 55%;
-}
-
-.step-4 figure img {
-    width: 450px;
-    height: 250px;
-    object-fit: cover; 
-}
-
-.step-5 {
-    margin: 5%;
-    white-space: normal;
-}
-
-.step-5 p {
-    width: 55%;
-}
-
-.step-5 figure img {
-    width: 450px;
-    height: 250px;
-    object-fit: cover; 
+section .row .col-md-3 figure img {
+    width: 40vw;
+    height: 35vh;
+    margin-top: 30%;
+    object-fit: cover;
 }
 
 .bottom-nav {
-    margin: 3%;
+    margin: 5%;
 }
 
 .back a p {
-    width: 50px;
+    margin-bottom: .25%;
+}
+
+.next a p {
+    margin-bottom: .25%;
 }
